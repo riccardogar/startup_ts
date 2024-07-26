@@ -22,6 +22,11 @@ To set up this project locally, follow these steps:
 3. Navigate to the project directory in your terminal.
 4. Run the following command to install the necessary dependencies:
 
+   ```bash
+   npm install
+
+   ```
+
 Interfaces:
 
 IStartup: Represents innovative startups
