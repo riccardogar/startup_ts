@@ -19,7 +19,7 @@ Clone this repository to your local machine.
 Navigate to the project directory in your terminal.
 Run the following command to install the necessary dependencies:
 
-```npm install ```
+```bash npm install ```
 
 **Usage**
 After installation, you can use the following npm scripts:
