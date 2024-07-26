@@ -1,0 +1,17 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "main": "startup_project.js",
+  "scripts": {
+    "build": "tsc startup_project.ts",
+    "start": "node startup_project.js",
+    "dev": "tsc startup_project.ts && node startup_project.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}
