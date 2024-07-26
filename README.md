@@ -20,7 +20,7 @@ Navigate to the project directory in your terminal.
 Run the following command to install the necessary dependencies:
 
 ```bash
-   npm install
+   npm install ```
 
 **Usage**
 After installation, you can use the following npm scripts:
