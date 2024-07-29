@@ -11,7 +11,7 @@ You can view the TypeScript code for this project online at the following link:
 https://codepen.io/riccardogar/pen/XWLjVwO?editors=1111
 This CodePen provides an easy way to explore and understand the structure of the project without needing to set it up locally.
 
-npm run build
+```npm run build```
 
 **Table of Contents**
 
