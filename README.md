@@ -67,7 +67,10 @@ npm run dev
 The main files of this project are:
 
 startupproject.ts: The TypeScript source file
+
+
 startupproject.js: The compiled JavaScript file
+
 
 These files contain the following key components:
 
