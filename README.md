@@ -2,11 +2,13 @@
 
 
 **Project Overview**
+
 This project involves the development of a TypeScript system that models the operational structure of a startup facilitating citizens' access to state bonuses. It focuses on the interactions between startups, state incentives, and participating citizens.
 Through the definition of interfaces and classes representing various system components (IStartup, IIncentivo, ICittadino), the project illustrates how technology can facilitate access to incentives and participation in sports activities.
 The project includes both TypeScript source code and the compiled JavaScript file.
 
 **Online Code Viewing**
+
 You can view the TypeScript code for this project online at the following link:
 https://codepen.io/riccardogar/pen/XWLjVwO?editors=1111
 This CodePen provides an easy way to explore and understand the structure of the project without needing to set it up locally.
@@ -21,6 +23,7 @@ Project Structure
 Online Code Viewing
 
 **Installation**
+
 To set up this project locally, follow these steps:
 
 Ensure you have Node.js installed on your system.
@@ -33,6 +36,7 @@ npm install
 ```
 
 **Usage**
+
 After installation, you can use the following npm scripts:
 
 To run the existing JavaScript file:
@@ -43,6 +47,7 @@ npm start
 
 
 If you make changes to the TypeScript file and want to recompile:
+
 ```
 npm run build
 ```
@@ -50,6 +55,7 @@ npm run build
 
 
 To recompile and run in one command (useful for development):
+
 ```
 npm run dev
 ```
@@ -57,6 +63,7 @@ npm run dev
 
 
 **Project Structure**
+
 The main files of this project are:
 
 startupproject.ts: The TypeScript source file
