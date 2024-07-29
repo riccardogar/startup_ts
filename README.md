@@ -11,9 +11,7 @@ You can view the TypeScript code for this project online at the following link:
 https://codepen.io/riccardogar/pen/XWLjVwO?editors=1111
 This CodePen provides an easy way to explore and understand the structure of the project without needing to set it up locally.
 
-```
-npm run build
-```
+
 
 **Table of Contents**
 
@@ -30,26 +28,31 @@ Clone this repository to your local machine.
 Navigate to the project directory in your terminal.
 Run the following command to install the necessary dependencies:
 
-`npm install `
+```
+npm install
+```
 
 **Usage**
 After installation, you can use the following npm scripts:
 
 To run the existing JavaScript file:
 
-```sh
+```
 npm start
+```
 
 
 If you make changes to the TypeScript file and want to recompile:
-```sh
+```
 npm run build
+```
 
 
 
 To recompile and run in one command (useful for development):
-```sh
+```
 npm run dev
+```
 
 
 
