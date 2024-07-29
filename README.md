@@ -74,14 +74,14 @@ startupproject.js: The compiled JavaScript file
 
 These files contain the following key components:
 
-Interfaces:
+***Interfaces:***
 
 IStartup: Represents innovative startups
 IIncentivo: Represents state incentives
 ICittadino: Represents participating citizens
 
 
-Classes:
+***Classes:***
 
 Startup: Implements the IStartup interface
 Incentivo: Implements the IIncentivo interface
