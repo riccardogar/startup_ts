@@ -77,14 +77,18 @@ These files contain the following key components:
 ***Interfaces:***
 
 IStartup: Represents innovative startups
+
 IIncentivo: Represents state incentives
+
 ICittadino: Represents participating citizens
 
 
 ***Classes:***
 
 Startup: Implements the IStartup interface
+
 Incentivo: Implements the IIncentivo interface
+
 Cittadino: Implements the ICittadino interface
 
 
